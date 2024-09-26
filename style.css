@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+
+
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* el elemtnot root tiene 16px, los rems son relavitos al elemento root */
+p {
+    font-size: 3rem;
+    color: black;
+    text-decoration: overline;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+
+}
